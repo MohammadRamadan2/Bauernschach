@@ -22,10 +22,9 @@ German:
 	1. You might want to create a fully functional chess game in java and need some ideas to know how to start
 	2. Stuck in school project and all the nerds are unavailable (Do yourself a favor and don't copy the whole project)
 	3. Simply for learning reasons
- sdfsdf
 
 * **The game has crached, can you hel...**
-NO
+	NO
 
 
 ## License
