@@ -23,7 +23,7 @@ German:
 	2. Stuck in school project and all the nerds are unavailable (Do yourself a favor and don't copy the whole project)
 	3. Simply for learning reasons
 
-* **The game has crached, can you hel...**
+* **The game has crached, can you hel...?**
 No
 
 
