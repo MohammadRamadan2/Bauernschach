@@ -8,7 +8,7 @@ Functions / Attributes have been written in English, you can even generate Javad
 in English)
 
 ## **for employers**
-German:
+German: <br />
 	Hallo und Herzlich willkommen zu meinem Projekt, bevor die Bewertung losgeht, möchte ich Sie hinweisen, 
 	dass das Projekt sich im Moment in Verbesserungsphase befindet, selbstverständlich werden keine Probleme 
 	auftreten, aber mit der Zeit werden die Kleinigkeiten korrigiert, z.B. Rechtschreibfehler.
