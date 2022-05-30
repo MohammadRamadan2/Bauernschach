@@ -1,6 +1,6 @@
 # Bauernschach (engl. pawn chess) 
-### Easy brain game for 2 Players
-"Bauernschach" is a java project that has been developed during the third year of the autor Apprenticeship.
+### Easy puzzle game for 2 players
+"Bauernschach" (engl. Pawn chess) is a java project that has been developed during the third year of the autor Apprenticeship.
 
 ## **Dokumentation**
 For the time being the documentation is only available in German, no worries all the Classes and their
